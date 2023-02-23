@@ -1,1 +1,3 @@
-dsad
+<?PHP
+    ECHO "ZMIANA";
+?>
